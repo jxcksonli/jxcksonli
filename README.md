@@ -5,3 +5,5 @@
 <li>📫 Reach me at 
   <a href="mailto:jacksonli_@outlook.com">jacksonli_@outlook.com</a></li>
 </ul>
+<h3>Statistics</h3>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jxcksonli&theme=radical&layout=compact" alt="Most Used Languages">
