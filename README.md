@@ -1,7 +1,6 @@
-<h3>Hi, I’m Jackson 👋</h3>
+<h3>hi, i'm jackson 👋</h3>
 <ul>
-<li>🌱 I’m an aspiring data scientist and graduate from Monash University</li>
-<li>👀 I’m passionate about unlocking the full potential of data, and generating insights that drive smarter and more informed decisions </li>
-<li>📫 Reach me at 
-  <a href="mailto:8jacksonli@gmail.com">8jacksonli@gmail.com</a>
+<li>🌱 commerce + cs grad from monash </li>
+<li>✦  into data science, analytics engineering and finding the story in the noise </li>
+<li>📫 <a href="mailto:8jacksonli@gmail.com">8jacksonli@gmail.com</a></li>
 </ul>
